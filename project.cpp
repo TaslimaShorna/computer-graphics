@@ -15,9 +15,6 @@ void footballGroundView();
 void bardView();
 void chessView();
 void shaheedMinarView();
-
-//end shaeed minar
-
 void showMenu();
 
 int main()
